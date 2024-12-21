@@ -1,0 +1,10 @@
+berdasarkan, file project yang sudah disediakan bahwa terdapat beberapa kelas pada program java netbeans tersebut yang mana terdiri dari kelas Login, Mahasiswa, Dosen, InputDokuken, LaporanDokumen, Chechking, Main,
+dan kurang pada kelas Notifikasi. Yang nanti akan dilanjutkan dengan perbaikan lanjutan mengenai project yang dibuat. Selanjutnya kami jelas dan jabarkan sedikit mengenai project yang kami buat.
+Berdasarkan pada file project juga terdapat jframe berupa tampilan desain untuk setiap halaman atau menu pada project yang dibuat ini, dimana desain jframe tersebut terdiri dari form Registrasi, dimana form Registrasi ini
+setelah user menginputkan nama kemudian memilik pada chcekbox yang tersedia yaitu mahasiswa dan dosen. Ketika user memilih checkbox mahasiswa, maka akan menampilkan lanjutan Registrasi untuk mahasiswa, dan begitu juga jika
+memilih Dosen. Selanjutnya yaitu ada form Login, yaitu lanjutan ketika user melakukan regostrasi dan ketikan melakukan login akan diperlihatkan keterangan berupa akun tersebut adalam akun dari dosen atau mahasiswa. 
+Kemudian form Dashboard atau pada kelas yaitu InputDokumen yang digunakan untuk mengupload file yang akan dicheck plagiarisasinya. Form LaporanDokumen berupa menu untuk melaporakan hasil atau progres dari 
+check plagiarisasi ini, didalamnya berisi output atau tampilan dari hasil input pada form Dashboard. Selanjutnya ada notifikasi, yaitu berupa informasi yang akan dilaporkan kepada penggunaberupa tabel yang berisi data
+atau dokumen yang sedang atau sebelumnya melakukan check plagiarisasi juga, dimana ketika user melakukan atau memilih dan mengklik salah satu dari dokumen atau data pada Notifikasi akan menampilkan menu pada LaporanDokumen.
+Dan yang terakhir adalah form pengaturanAkun yang berupa data output-an atau tampilan dari input-an user ketika melakukan registrasi.
+Dari project yang kami buat, tentunya akan terus dikembangkan menjadi lebih baik dari sekarang, yang kurang akan ditambahkan dan yang salah akan diperbaiki.
